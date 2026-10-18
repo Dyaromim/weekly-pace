@@ -1,0 +1,9 @@
+{
+  "name": "weekly-pace",
+  "version": "0.1.0",
+  "description": "Band above the prompt: weekly quota used vs. the pace your usual week allows, with a traffic light.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Dror Ben-Hor"
+  }
+}

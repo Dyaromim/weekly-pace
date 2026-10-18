@@ -1,0 +1,5 @@
+{
+  "name": "dror-mods",
+  "owner": { "name": "Dror Ben-Hor" },
+  "plugins": [{ "name": "weekly-pace", "source": "./" }]
+}
